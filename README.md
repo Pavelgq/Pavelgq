@@ -2,7 +2,7 @@
 - 👀 Interested in interface design, technology, software architecture and code quality
 - 🌱 I am currently learning typescript, redux, effector js and English
 - 💞️ I want to collaborate on products which make everyday life easier 
-- 📫 You can write me pavelgq@yandex.ru
+- 📫 You can write to me <pavelgq@yandex.ru>
 <!---
 Pavelgq/Pavelgq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
