@@ -1,8 +1,9 @@
-- 👋 Hi, I'm @Pavelgq
-- 👀 Interested in interface design, technology, software architecture and code quality
-- 🌱 I am currently learning typescript, redux, effector js and English
-- 💞️ I want to collaborate on products which make everyday life easier 
-- 📫 You can write to me <pavelgq@yandex.ru>
+- 👋 Приветствую! Я Павел @Pavelgq. Инженер по автоматизации и фронтенд разработчик.
+- 👀 Интересуюсь дизайном интерфейсов, новыми технологиями и архитектурой ПО. 
+- 🌱 Сейчас я изучаю GraphQL, пробую практики тестирования фронтенда и стараюсь не забыть все остальное.
+- 💞️ Готов к сотрудничеству по разработке интересных проектов.
+- 📫 Связаться со мной можно по e-mail <pavelgq@yandex.ru>
+- 💻 Мое портфолио [pavelgordeev.site](http://pavelgordeev.site)
 <!---
 Pavelgq/Pavelgq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
