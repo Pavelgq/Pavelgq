@@ -1,9 +1,9 @@
-- 👋 Приветствую! Я Павел @Pavelgq. Инженер по автоматизации и фронтенд разработчик
-- 👀 Интересуюсь дизайном интерфейсов, новыми технологиями и архитектурой ПО
-- 🌱 Сейчас я изучаю GraphQL, пробую практики тестирования фронтенда и стараюсь не забыть все остальное
-- 💞️ Готов к сотрудничеству по разработке интересных проектов
-- 📫 Связаться со мной можно по e-mail <pavelgq@yandex.ru>
-- 💻 Мое портфолио [pavelgordeev.site](http://pavelgordeev.site)
+- 👋 Hello! I'm Pavel @Pavelgq. Automation engineer and front-end developer
+- 👀 Interested in interface design, new technologies and software architecture
+- 🌱 Now I'm learning GraphQL, trying front-end testing practices and trying not to forget everything else
+- 💞️ Ready to cooperate on the development of interesting projects
+- 📫 You can contact me by e-mail <pavelgq@yandex.ru>
+- 💻 My portfolio [pavelgordeev.site](http://pavelgordeev.site)
 <!---
 Pavelgq/Pavelgq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
