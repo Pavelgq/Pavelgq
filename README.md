@@ -1,4 +1,4 @@
-👋 **Hi! I'm Pavel ([PavelGQ](https://github.com/Pavelgq))** — Automation Engineer & Frontend Developer from Saint-Petersburg
+👋 **Hi! I'm Pavel** — Automation Engineer & Frontend Developer from Saint-Petersburg
 
 ### About Me
 - Interested in interface design, new technologies and software architecture
