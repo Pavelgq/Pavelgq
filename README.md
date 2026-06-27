@@ -6,7 +6,7 @@
 - Ready to collaborate on interesting projects
 
 ### Contact 📫
-- 💻 Web site: [pavelgordeev.space](http://pavelgordeev.space)
+- 💻 Web site: [pavelgordeev.space](http://blog.pavelgordeev.space)
 - 📝 Blog: [@theDiaryOfAnOldJunior](https://t.me/theDiaryOfAnOldJunior) on Telegram
 - 📧 Email: pavelgq@yandex.ru
 
